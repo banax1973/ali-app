@@ -1,0 +1,82 @@
+{
+  /*theme COLORS for business=TU DELIVERY MULTIBRAND--------------------
+  -----------------------------------------------*/
+
+  //Splash Screen 
+  "splashBackground": "#FFFFFF",
+  
+  //main App Container 
+  "containerBackground": "#FFFFFF",
+
+  //header ----------------------------
+  "headerText": "#FFFFFF",
+  "headerGradientFromColor" : "#456D9A", 
+  "headerGradientToColor" :"#E3EAF2",
+  "headerIconRightTrash": "#F0E90EFF",
+  "headerIconRightCoupon": "#FFFFFF",
+
+  "colorBasic100": "#FFF6F2",
+  "color-basic-200": "#FFE1D4",
+  "color-basic-300": "#FFBD9E",
+  "colorBasic400": "#456D9A",
+  "colorBasic500": "#3D3D3DFF",
+  "colorBasic600": "#232323FF",
+
+  "textPrimaryColor": "#456D9A",
+  "textBasicColor": "#474747FF",
+
+  "authTextHint": "#DDDDDD",
+  "authTextControl": "#FFFFFF",
+  "authPhotoBorder": "#456D9A",
+  "authInputBackground": "rgba(0, 0, 0, 0.35)",
+  "iconActiveColor": "#456D9A",
+
+  //buttons ---------------------------
+  "btnShadowColor" : "transparent",
+  "btnTextColor" : "#EDEDED",
+  "btnBorderColor" : "#EDEDED",
+  "btnBackgroundColor" : "#456D9A",
+  "btnUnderlayColor" : "#456D9A",
+  "btnPlusMinus" : "#456D9A",
+
+
+  //Products and Offers items ---------------------------
+  "offTitle": "#FFFFFF",
+  "offSubtitle": "#EAEAEA",
+
+  "proContainerShadow" : "rgba(22, 22, 22, 0.6)",
+  "proTitle": "#474747FF",
+  "proSubtitle": "#474747FF",
+  "proPriceLabel": "#F0A60EFF",
+  "proCarrouselPagDot": "rgba(55, 55, 55, 0.6)",
+
+  "proItemTextShadow" : "rgba(55, 55, 55, 0.6)",
+  "proGradientFromColor" : "#FF854D", 
+  "proGradientToColor" : "#FFBD9E", 
+  "proActionGradientFromColor" : "#FFBD9E", 
+  "proActionGradientToColor" : "#FFBD9E",
+
+ 
+ 
+  //tabs items ---------------------------
+  "dlvTabBarText": "#456D9A",
+  "dlvTabBarBackground": "#FFFFFF",
+ 
+
+  //More screen----------------------------------
+  "mreSectionContainerBackground" : "#FFFFFF",
+  "mreSectionContainerShadow" : "#000",
+  "mreSectionTitle" : "#474747FF",
+  "mreItemBorderBottom" : "#474747FF",
+  "mreItemText" : "#545454",
+  "mreItemIconRight" : "#545454",
+  "mreItemIconLeft" : "#545454",
+  "mreShareButtonIcon": "#456D9A",  
+
+  //Account screen---------------------------------- 
+  "accPhotoBorder" : "#456D9A",
+
+  //OS -------------------------------------
+  "OSStatusBarBackground": "#456D9A", //change the Top OS status bar background color
+  "OSStatusBarText": "light-content",  //change the Top OS status bar Text color
+}

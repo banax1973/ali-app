@@ -1,0 +1,58 @@
+{
+  "expo": {
+    "name": "Alibrate",
+    "description": "App de ejemplo Alibrate",
+    "icon": "./src/assets/icons/businessIcon.png",
+    "version": "1.0.0",
+    "slug": "alibrate-customer-app",
+    "privacy": "public",
+    "orientation": "portrait",
+    "backgroundColor": "#FFFFFF",
+    "facebookAppId": "2775014922761800",
+    "facebookDisplayName": "Alibrate",
+    "facebookScheme": "fb2775014922761800",
+    "ios": {
+      "bundleIdentifier": "com.alibrate.customerapp",
+      "buildNumber": "1.0.0",
+      "icon": "./src/assets/icons/businessIcon.png",
+      "infoPlist": {
+        "NSCameraUsageDescription": "This app uses the camera to scan barcodes for purchase coupons.",
+        "NSLocationWhenInUseUsageDescription": "Allow this app to use your location.",
+        "NSPhotoLibraryAddUsageDescription": "Give this app permission to save photos.",
+        "NSPhotoLibraryUsageDescription": "Give this app permission to access your photos."
+      },
+      "supportsTablet": false
+    },
+    "android": {
+      "package": "com.alibrate.customerapp",
+      "versionCode": 1,
+      "permissions": [
+        "ACCESS_FINE_LOCATION",
+        "CAMERA",
+        "READ_EXTERNAL_STORAGE",
+        "WRITE_EXTERNAL_STORAGE"
+      ]
+    },
+    "assetBundlePatterns": [
+      "src/assets/images/auth/*",
+      "src/assets/images/home/*",
+      "src/assets/images/misc/*",
+      "src/assets/icons/misc/*.png",
+      "src/assets/fonts/*.ttf"
+    ],
+    "splash": {
+      "image": "src/assets/images/businessSplash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#1c4865"
+    },
+    "platforms": [
+      "android",
+      "ios"
+    ],
+    "updates": {
+      "enabled": true,
+      "checkAutomatically": "ON_LOAD",
+      "fallbackToCacheTimeout": 30000
+    }
+  }
+}

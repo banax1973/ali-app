@@ -1,0 +1,30 @@
+{
+  //icons and texts for auth components--
+  "text-disabled-color": "#FFF6F2",
+  "text-basic-color": "#FFF6F2",
+  "text-alternative-color": "#171311",
+  "text-hint-color": "#C6C6C6",
+  "text-control-color": "#FFF6F2",
+  "icon-hint-color": "#FFF6F2",
+  "icon-active-color": "#FFFFFF",
+
+  "color-basic-100": "#FFF6F2",
+  "color-basic-200": "#FFE1D4",
+  "color-basic-300": "#FFBD9E",
+  "color-basic-400": "#FAFCFE",
+  "color-basic-500": "#B2B2B2FF",
+  "color-basic-600": "#B2B2B2FF",
+
+  "color-success-default": "#88F82EFF",
+  "color-success-focus": "#88F87BFF",
+  "color-danger-default": "#F2660CFF",
+  "color-danger-focus": "#F2660CFF",
+  "text-success-color": "#88F87BFF",
+  "text-danger-color": "#F2660CFF",
+
+  /* de aqui para abajo son colores del sistema*/ 
+  //--------------------------------------------------
+  "background-basic-color-1": "#FFFFFF", //bottom navigator Menu bar background color
+  "text-primary-color": "#456D9A",  // bottom navigator Icon text selected
+  "color-primary-default": "#4267b2", // bottom navigator Icon selected
+}

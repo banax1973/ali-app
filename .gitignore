@@ -3,9 +3,4 @@
 android/*
 ios/*
 node_modules/*
-src/config/*
-src/assets/*
-src/core/themes/*
-app.json
-package-lock.json
-package.json
+
